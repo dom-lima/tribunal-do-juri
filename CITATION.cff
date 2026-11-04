@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se usar esta obra, cite-a conforme os metadados abaixo."
+title: "Procedimento do Tribunal do Júri"
+authors:
+  - family-names: "Souza Lima Júnior"
+    given-names: "Domingos José de"
+license: CC-BY-4.0
+url: "https://github.com/dom-lima/tribunal-do-juri"
+abstract: "Estudo jurisprudencial do procedimento do Tribunal do Júri: primeira e segunda fases, pronúncia, quesitos, prisão decorrente da sentença, feminicídio, perspectiva de gênero e atos normativos do Conselho Nacional de Justiça. Jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça de 2015 a 2026."
